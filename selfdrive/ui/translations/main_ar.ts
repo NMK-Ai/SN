@@ -810,8 +810,8 @@ Pause Steering: ALC will be paused after the brake pedal is manually pressed.</s
         <translation>يتم تنزيل تحديث لنظام تشغيل جهازك في الخلفية. سيطلَب منك التحديث عندما يصبح جاهزاً للتثبيت.</translation>
     </message>
     <message>
-        <source>Device failed to register. It will not connect to or upload to comma.ai servers, and receives no support from comma.ai. If this is an official device, visit https://comma.ai/support.</source>
-        <translation>فشل تسجيل الجهاز. لن يقوم بالاتصال أو تحميل خوادم comma.ai، ولا تلقي الدعم من comma.ai. إذا كان هذا الجهاز نظامياً فيرجى زيارة الموقع https://comma.ai/support.</translation>
+        <source>Welcome to NMK_KSA</source>
+        <translation> أهلا وسهلا بك مع القائد الآلي </translation>
     </message>
     <message>
         <source>NVMe drive not mounted.</source>
